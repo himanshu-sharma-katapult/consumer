@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "consumeGitPackage",
+    "slug": "consumeGitPackage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "consumeGitPackage"
+}
